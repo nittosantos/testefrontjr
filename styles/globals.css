@@ -1,0 +1,12 @@
+:root {
+  --color-background: #e3e3e3;
+
+  --color-primary: #0b6699;
+
+  --color-secundary: #931854;
+}
+
+body {
+  background: var(--color-background);
+  font-family: montserrat;
+}
